@@ -1,0 +1,4 @@
+timestamp_ns,symbol,side,price_ticks,quantity
+1000000000,AAPL,B,18925,100
+1000000100,AAPL,S,18930,50
+1000000200,MSFT,B,41520,75
