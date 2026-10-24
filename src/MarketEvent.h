@@ -10,4 +10,4 @@ struct MarketEvent {
     char side;
     int price_ticks;
     int quantity;
-}
+};

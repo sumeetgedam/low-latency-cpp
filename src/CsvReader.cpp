@@ -42,4 +42,6 @@ std::vector<MarketEvent> read_market_events(const std::string& filename) {
         });
     }
 
+    return events;
+
 }
